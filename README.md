@@ -1,4 +1,9 @@
 # ProctoLearn - AI-Powered Online Proctoring System
+<p align="center">
+  <img src="docs/logo.jpg" alt="ProctoLearn logo" width="420" />
+</p>
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.4-green.svg)](https://vuejs.org/)
@@ -273,5 +278,6 @@ For support and questions:
 - Comprehensive violation detection
 
 ---
+
 
 **Built with ❤️ for secure and fair online examinations**
